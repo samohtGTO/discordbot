@@ -1,0 +1,6 @@
+{
+  "prefix": "??",
+  "token": "NzU2OTE1NTI5NDY5NTI2MDU2.X2YyhQ.IjXhc1mUqGaEOH-zhX2csVk0TT0",
+  "mongoPath": "mongodb+srv://hoi:hoi@cluster0.l6lcd.mongodb.net/test?retryWrites=true&w=majority",
+  "redisPath": "//redis-18706.c233.eu-west-1-1.ec2.cloud.redislabs.com:18706?password=ditisdewachtwoord"
+}
